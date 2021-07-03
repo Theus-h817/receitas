@@ -4,6 +4,6 @@
 - É algo interessante de se ler, caso for de sua curiosidade saber oque significa "Lorem Impsum Dolor Sit Amet", fique a vontade para ler, caso contrário...
 
 # boa vida :walking:
-
+bye
 
 
