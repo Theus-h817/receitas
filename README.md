@@ -5,6 +5,6 @@
 - # Você perdeu seu tempo lendo estes tópicos, hahahah :smile:
 
 # boa vida :walking:
-
+bye
 
 
